@@ -19,6 +19,7 @@ return 'done'
 }
 
 function doWhileLoop(array) {
+
   let maybeTrue = array.length > 0 && maybeTrue()
 
   do {
