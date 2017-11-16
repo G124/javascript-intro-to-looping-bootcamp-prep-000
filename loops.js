@@ -20,7 +20,7 @@ return 'done'
 
 function maybeTrue(array) {
 
-  
+
   do {
     console.log('doo-bee-doo-bee-doo')
   } while (maybeTrue());
